@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/HITESHVERMA01">
+<a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/HITESHVERMA01">
@@ -56,11 +56,11 @@ My engineering interests include **AI/ML systems, DSA, backend architecture, ful
 
 I approach development with a product mindset:
 
-- Build for the actual problem, not just the specification.
-- Prefer measurable performance over assumptions.
-- Write systems that are understandable, testable, and extensible.
-- Use AI as an engineering multiplier rather than a replacement for engineering fundamentals.
-- Continuously improve through experimentation, benchmarking, and iteration.
+* Build for the actual problem, not just the specification.
+* Prefer measurable performance over assumptions.
+* Write systems that are understandable, testable, and extensible.
+* Use AI as an engineering multiplier rather than a replacement for engineering fundamentals.
+* Continuously improve through experimentation, benchmarking, and iteration.
 
 ### Open To
 
@@ -98,17 +98,17 @@ I approach development with a product mindset:
 
 ## AI / ML Expertise
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | Intermediate | Model experimentation, evaluation, feature-based learning and applied ML workflows |
-| Deep Learning | Intermediate | Neural-network based experimentation and research-oriented implementations |
-| Computer Vision | Intermediate | Image enhancement, super-resolution, object detection and vision pipelines |
-| Reinforcement Learning | Intermediate | DQN-based experimentation and intelligent routing environments |
-| AI Engineering | Intermediate | Integrating AI capabilities into practical software products |
-| Generative AI | Intermediate | AI-assisted development, prompt engineering and product workflows |
-| Optimization | Intermediate | Metaheuristic optimization and algorithm benchmarking |
-| Network Intelligence | Intermediate | Adaptive routing, mobility-aware systems and MANET experimentation |
-| Data Analysis | Intermediate | Experimental evaluation, metrics, visualization and comparative analysis |
+| Domain                 | Proficiency  | Details                                                                            |
+| ---------------------- | ------------ | ---------------------------------------------------------------------------------- |
+| Machine Learning       | Intermediate | Model experimentation, evaluation, feature-based learning and applied ML workflows |
+| Deep Learning          | Intermediate | Neural-network based experimentation and research-oriented implementations         |
+| Computer Vision        | Intermediate | Image enhancement, super-resolution, object detection and vision pipelines         |
+| Reinforcement Learning | Intermediate | DQN-based experimentation and intelligent routing environments                     |
+| AI Engineering         | Intermediate | Integrating AI capabilities into practical software products                       |
+| Generative AI          | Intermediate | AI-assisted development, prompt engineering and product workflows                  |
+| Optimization           | Intermediate | Metaheuristic optimization and algorithm benchmarking                              |
+| Network Intelligence   | Intermediate | Adaptive routing, mobility-aware systems and MANET experimentation                 |
+| Data Analysis          | Intermediate | Experimental evaluation, metrics, visualization and comparative analysis           |
 
 ---
 
@@ -123,27 +123,27 @@ An experimental **intelligent routing framework for Mobile Ad Hoc Networks (MANE
 
 The project is being developed as a modular **NS-3 research framework**, with an emphasis on reproducible experiments, baseline comparison, adaptive optimization, and publication-quality evaluation.
 
-| Metric | Details |
-|---|---|
-| **Stack** | C++, NS-3, Python, Reinforcement Learning, ACO |
-| **Scale** | Multi-node MANET simulation framework |
+| Metric          | Details                                                                 |
+| --------------- | ----------------------------------------------------------------------- |
+| **Stack**       | C++, NS-3, Python, Reinforcement Learning, ACO                          |
+| **Scale**       | Multi-node MANET simulation framework                                   |
 | **Performance** | Evaluates PDR, throughput, delay, routing overhead and network lifetime |
-| **Security** | Designed around robust routing decisions and network-state awareness |
-| **Impact** | Research-oriented intelligent routing and adaptive network optimization |
-| **Repository** | [PHOENIX-MANET](https://github.com/HITESHVERMA01/PHOENIX-MANET) |
+| **Security**    | Designed around robust routing decisions and network-state awareness    |
+| **Impact**      | Research-oriented intelligent routing and adaptive network optimization |
+| **Repository**  | [PHOENIX-MANET](https://github.com/HITESHVERMA01/PHOENIX-MANET)         |
 
 **Engineering Scope**
 
-- Modular NS-3 simulation architecture
-- Baseline AODV/AOMDV experimentation
-- Network Health Index
-- Mobility prediction
-- Adaptive pheromone updates
-- Congestion-aware routing
-- Adaptive optimization strategies
-- Multi-seed experimental evaluation
-- Automated CSV-based result generation
-- Publication-quality graph generation
+* Modular NS-3 simulation architecture
+* Baseline AODV/AOMDV experimentation
+* Network Health Index
+* Mobility prediction
+* Adaptive pheromone updates
+* Congestion-aware routing
+* Adaptive optimization strategies
+* Multi-seed experimental evaluation
+* Automated CSV-based result generation
+* Publication-quality graph generation
 
 </details>
 
@@ -156,23 +156,23 @@ The project is being developed as a modular **NS-3 research framework**, with an
 
 An AI-driven satellite remote-sensing project focused on converting and enhancing infrared satellite imagery into RGB representations while improving visual quality through super-resolution and image-enhancement techniques.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Python, Deep Learning, EDSR, OpenCV, CLAHE |
-| **Scale** | Satellite remote-sensing image pipeline |
-| **Performance** | EDSR ×2 super-resolution with CLAHE and adaptive sharpening |
-| **Security** | Designed as an offline image-processing pipeline |
-| **Impact** | Improves interpretability and downstream usability of satellite imagery |
-| **Repository** | [IR2RGB](https://github.com/CodeXEaters/IR2RGB) |
+| Metric          | Details                                                                 |
+| --------------- | ----------------------------------------------------------------------- |
+| **Stack**       | Python, Deep Learning, EDSR, OpenCV, CLAHE                              |
+| **Scale**       | Satellite remote-sensing image pipeline                                 |
+| **Performance** | EDSR ×2 super-resolution with CLAHE and adaptive sharpening             |
+| **Security**    | Designed as an offline image-processing pipeline                        |
+| **Impact**      | Improves interpretability and downstream usability of satellite imagery |
+| **Repository**  | [IR2RGB](https://github.com/CodeXEaters/IR2RGB)                         |
 
 **Engineering Scope**
 
-- Infrared-to-RGB image reconstruction
-- EDSR-based ×2 super-resolution
-- CLAHE-based contrast enhancement
-- Adaptive image sharpening
-- Quantitative image-quality evaluation
-- Satellite remote-sensing experimentation
+* Infrared-to-RGB image reconstruction
+* EDSR-based ×2 super-resolution
+* CLAHE-based contrast enhancement
+* Adaptive image sharpening
+* Quantitative image-quality evaluation
+* Satellite remote-sensing experimentation
 
 </details>
 
@@ -185,23 +185,23 @@ An AI-driven satellite remote-sensing project focused on converting and enhancin
 
 An applied AI project focused on identifying potentially fraudulent UPI transactions through machine-learning-driven analysis and a user-oriented frontend experience.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Python, Machine Learning, React, JavaScript |
-| **Scale** | Transaction-level fraud detection workflow |
+| Metric          | Details                                                                   |
+| --------------- | ------------------------------------------------------------------------- |
+| **Stack**       | Python, Machine Learning, React, JavaScript                               |
+| **Scale**       | Transaction-level fraud detection workflow                                |
 | **Performance** | Designed around classification metrics and practical prediction workflows |
-| **Security** | Fraud-oriented transaction analysis |
-| **Impact** | Demonstrates applied AI for financial-risk detection |
-| **Repository** | [GitHub Profile](https://github.com/HITESHVERMA01) |
+| **Security**    | Fraud-oriented transaction analysis                                       |
+| **Impact**      | Demonstrates applied AI for financial-risk detection                      |
+| **Repository**  | [GitHub Profile](https://github.com/HITESHVERMA01)                        |
 
 **Engineering Scope**
 
-- Transaction-data preprocessing
-- Fraud classification workflow
-- ML model experimentation
-- Prediction-oriented frontend
-- Practical financial-risk visualization
-- AI-assisted product development
+* Transaction-data preprocessing
+* Fraud classification workflow
+* ML model experimentation
+* Prediction-oriented frontend
+* Practical financial-risk visualization
+* AI-assisted product development
 
 </details>
 
@@ -214,22 +214,22 @@ An applied AI project focused on identifying potentially fraudulent UPI transact
 
 A computer-vision-oriented surveillance prototype using object-detection techniques to identify and monitor objects within visual streams.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Python, YOLO, Computer Vision |
-| **Scale** | Real-time / image-stream object detection prototype |
+| Metric          | Details                                               |
+| --------------- | ----------------------------------------------------- |
+| **Stack**       | Python, YOLO, Computer Vision                         |
+| **Scale**       | Real-time / image-stream object detection prototype   |
 | **Performance** | Optimized around practical object-detection workflows |
-| **Security** | Surveillance-oriented computer-vision architecture |
-| **Impact** | Demonstrates applied AI for intelligent monitoring |
-| **Repository** | [GitHub Profile](https://github.com/HITESHVERMA01) |
+| **Security**    | Surveillance-oriented computer-vision architecture    |
+| **Impact**      | Demonstrates applied AI for intelligent monitoring    |
+| **Repository**  | [GitHub Profile](https://github.com/HITESHVERMA01)    |
 
 **Engineering Scope**
 
-- YOLO-based object detection
-- Computer-vision pipeline development
-- Real-time detection concepts
-- AI-assisted monitoring workflows
-- Hackathon-oriented rapid product development
+* YOLO-based object detection
+* Computer-vision pipeline development
+* Real-time detection concepts
+* AI-assisted monitoring workflows
+* Hackathon-oriented rapid product development
 
 </details>
 
@@ -242,25 +242,25 @@ A computer-vision-oriented surveillance prototype using object-detection techniq
 
 A research-oriented machine-learning project investigating complex-valued neural-network approaches for predicting and optimizing vermicomposting processes involving flower waste.
 
-| Metric | Details |
-|---|---|
-| **Stack** | Python, CVNN, RVNN, QVNN, FFT, Hilbert, Wavelet |
-| **Scale** | Experimental research dataset |
-| **Performance** | Compared multiple signal-processing and neural-network approaches |
-| **Security** | Research data-processing workflow |
-| **Impact** | Applies computational intelligence to sustainable waste management |
-| **Repository** | [GitHub Profile](https://github.com/HITESHVERMA01) |
+| Metric          | Details                                                            |
+| --------------- | ------------------------------------------------------------------ |
+| **Stack**       | Python, CVNN, RVNN, QVNN, FFT, Hilbert, Wavelet                    |
+| **Scale**       | Experimental research dataset                                      |
+| **Performance** | Compared multiple signal-processing and neural-network approaches  |
+| **Security**    | Research data-processing workflow                                  |
+| **Impact**      | Applies computational intelligence to sustainable waste management |
+| **Repository**  | [GitHub Profile](https://github.com/HITESHVERMA01)                 |
 
 **Engineering Scope**
 
-- Real-valued neural networks
-- Complex-valued neural networks
-- Quaternion-valued neural networks
-- FFT transformation
-- Hilbert transform
-- Wavelet transformation
-- MAE-based comparative evaluation
-- Research-paper-oriented experimentation
+* Real-valued neural networks
+* Complex-valued neural networks
+* Quaternion-valued neural networks
+* FFT transformation
+* Hilbert transform
+* Wavelet transformation
+* MAE-based comparative evaluation
+* Research-paper-oriented experimentation
 
 </details>
 
@@ -274,12 +274,12 @@ A research-oriented machine-learning project investigating complex-valued neural
 
 Working on AI-assisted frontend engineering and product development within a startup environment.
 
-- Build and iterate production-oriented frontend interfaces.
-- Integrate AI capabilities into practical product workflows.
-- Work with modern JavaScript and React-based development environments.
-- Translate product requirements into usable engineering implementations.
-- Collaborate in a fast-moving startup development environment.
-- Apply AI-assisted development workflows to improve engineering velocity.
+* Build and iterate production-oriented frontend interfaces.
+* Integrate AI capabilities into practical product workflows.
+* Work with modern JavaScript and React-based development environments.
+* Translate product requirements into usable engineering implementations.
+* Collaborate in a fast-moving startup development environment.
+* Apply AI-assisted development workflows to improve engineering velocity.
 
 **Skills:** `React` `JavaScript` `Frontend Engineering` `AI Engineering` `Product Development` `Git` `GitHub`
 
@@ -291,11 +291,11 @@ Working on AI-assisted frontend engineering and product development within a sta
 
 Worked in a startup environment focused on growth, user acquisition, experimentation, and product-oriented execution.
 
-- Supported growth-focused initiatives.
-- Worked around user acquisition and engagement.
-- Contributed to startup experimentation and execution.
-- Developed an understanding of product metrics and user behavior.
-- Collaborated in a fast-paced early-stage environment.
+* Supported growth-focused initiatives.
+* Worked around user acquisition and engagement.
+* Contributed to startup experimentation and execution.
+* Developed an understanding of product metrics and user behavior.
+* Collaborated in a fast-paced early-stage environment.
 
 **Skills:** `Growth` `Product` `User Acquisition` `Analytics` `Experimentation` `Startup Operations`
 
@@ -305,15 +305,15 @@ Worked in a startup environment focused on growth, user acquisition, experimenta
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| **AI Engineering Experience** | Frontend AI Engineering Intern at a startup environment |
-| **Startup Experience** | Growth internship experience in an early-stage consumer startup |
-| **Research** | Worked on CVNN-based optimization for sustainable flower-waste vermicomposting |
-| **AI / Computer Vision** | Built applied AI and computer-vision projects |
-| **Network Research** | Developing PHOENIX, an intelligent MANET routing research framework |
-| **Hackathon Engineering** | Built AI, satellite-imaging and product-focused prototypes |
-| **Technical Leadership** | Experience contributing to student technical and organizational initiatives |
+| Recognition                   | Details                                                                        |
+| ----------------------------- | ------------------------------------------------------------------------------ |
+| **AI Engineering Experience** | Frontend AI Engineering Intern at a startup environment                        |
+| **Startup Experience**        | Growth internship experience in an early-stage consumer startup                |
+| **Research**                  | Worked on CVNN-based optimization for sustainable flower-waste vermicomposting |
+| **AI / Computer Vision**      | Built applied AI and computer-vision projects                                  |
+| **Network Research**          | Developing PHOENIX, an intelligent MANET routing research framework            |
+| **Hackathon Engineering**     | Built AI, satellite-imaging and product-focused prototypes                     |
+| **Technical Leadership**      | Experience contributing to student technical and organizational initiatives    |
 
 </div>
 
@@ -375,9 +375,13 @@ Worked in a startup environment focused on growth, user acquisition, experimenta
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HITESHVERMA01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED" height="180"/>
+<a href="https://github.com/HITESHVERMA01">
+  <img src="https://github-readme-stats.vercel.app/api?username=HITESHVERMA01&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&count_private=true" height="180"/>
+</a>
 
-<img src="https://streak-stats.demolab.com?user=HITESHVERMA01&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" height="180"/>
+<a href="https://github.com/HITESHVERMA01">
+  <img src="https://streak-stats.demolab.com?user=HITESHVERMA01&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" height="180"/>
+</a>
 
 </div>
 
@@ -385,7 +389,9 @@ Worked in a startup environment focused on growth, user acquisition, experimenta
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITESHVERMA01&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10" height="180"/>
+<a href="https://github.com/HITESHVERMA01">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITESHVERMA01&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10&card_width=450" height="180"/>
+</a>
 
 </div>
 
@@ -395,7 +401,7 @@ Worked in a startup environment focused on growth, user acquisition, experimenta
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=HITESHVERMA01&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=HITESHVERMA01&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6"/>
 
 </div>
 
@@ -422,6 +428,8 @@ Worked in a startup environment focused on growth, user acquisition, experimenta
 </picture>
 
 </div>
+
+---
 
 ## Current Focus
 
@@ -454,3 +462,42 @@ Open To:
   - AI Product Engineering
   - Research Collaborations
   - Open Source Contributions
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/HITESHVERMA01">
+<img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://github.com/HITESHVERMA01">
+<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### <i>Build systems that matter. Learn relentlessly. Ship with intent.</i>
+
+<br/>
+
+<a href="https://capsule-render.vercel.app/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1e1b4b,50:4c1d95,100:312e81" width="100%"/>
+</a>
+
+</div>
