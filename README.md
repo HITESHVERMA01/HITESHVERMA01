@@ -426,3 +426,20 @@ Architecture • Open Source
 `Open Source`
 
 </div>
+<div align="center">
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3500&pause=1200&color=C4B5FD&center=true&vCenter=true&width=760&lines=Build+with+curiosity.;Solve+with+discipline.;Ship+with+purpose." alt="Closing message"/>
+
+<br/><br/>
+
+### ✦ *“Stay curious. Build relentlessly.”*
+
+<sub>— Hitesh Verma</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=0:080512,30:170A2F,55:32145C,80:5B21B6,100:080512&animation=twinkling" width="100%" alt="Purple wave footer"/>
+
+</div>
