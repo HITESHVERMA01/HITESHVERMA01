@@ -1,27 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:090014,45:24104F,75:4C1D95,100:090014&text=HITESH%20VERMA&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DSA%20%7C%20AI%20ENGINEERING&descAlignY=63&descSize=16&animation=twinkling" width="100%" alt="Hitesh Verma"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:07000F,30:130B2B,55:31206B,80:5B21B6,100:07000F&text=HITESH%20VERMA&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=FULL-STACK%20ENGINEERING%20%7C%20C%2B%2B%20%26%20DSA%20%7C%20AI%2FML&descAlignY=63&descSize=16&animation=twinkling" width="100%" alt="Hitesh Verma"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+full-stack+web+applications;Solving+DSA+problems+in+C%2B%2B;Exploring+AI%2FML+through+real+projects;Turning+ideas+into+working+products." alt="Typing animation"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/B.Tech%20IT-3rd%20Year-312E81?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPMENT-4C1D95?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-DSA-4338CA?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%2FML-ENGINEERING-5B21B6?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=850&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+full-stack+web+applications.;Solving+DSA+with+C%2B%2B.;Exploring+AI%2FML+through+real+projects.;Turning+ideas+into+working+software.;Learning.+Building.+Shipping." alt="Typing animation"/>
 
 <br><br>
 
 <a href="https://github.com/HITESHVERMA01">
-<img src="https://img.shields.io/badge/GITHUB-HITESHVERMA01-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-HITESHVERMA01-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://github.com/HITESHVERMA01?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-EXPLORE-24103F?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
+<a href="https://github.com/HITESHVERMA01">
+<img src="https://img.shields.io/badge/OPEN%20TO-SWE%20%7C%20FULL--STACK%20%7C%20AI-4C1D95?style=for-the-badge&logo=target&logoColor=FFFFFF"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/B.TECH%20IT-3RD%20YEAR-312E81?style=flat-square"/>
+<img src="https://img.shields.io/badge/FULL--STACK-DEVELOPMENT-4C1D95?style=flat-square"/>
+<img src="https://img.shields.io/badge/C%2B%2B-DSA-4338CA?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-EXPLORING-6D28D9?style=flat-square&logo=python&logoColor=FFFFFF"/>
 
 <br><br>
 
@@ -33,44 +37,92 @@
 
 ---
 
-<h2 align="center">✦ ABOUT ME</h2>
-
 <div align="center">
 
-### Software Engineering • Full Stack • DSA • AI
+## 👨‍💻 ABOUT
+
+**3rd-year Information Technology student building toward software engineering.**
 
 </div>
 
-I'm a **3rd-year Information Technology student** focused on becoming a strong software engineer through building, problem solving and continuous experimentation.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-My primary focus is **full-stack web development and Data Structures & Algorithms**, with an additional interest in **AI/ML, computer vision and intelligent systems**.
+<pre>
+identity:
+  name: Hitesh Verma
+  role: Full-Stack Developer
+  year: 3rd Year
+  degree: B.Tech Information Technology
 
-I like working across the complete engineering cycle:
+focus:
+  - Full-Stack Development
+  - C++ & Data Structures
+  - Algorithms & Problem Solving
+  - AI / Machine Learning
+  - Systems & Networking
 
-`Problem → Architecture → Code → Test → Deploy → Iterate`
+currently:
+  building: Full-Stack applications
+  solving: DSA problems
+  exploring: AI / ML & System Design
+  improving: Software Engineering
 
-Currently, I'm strengthening my foundations in **C++, DSA, backend engineering and system design** while building practical products with modern web technologies.
+open_to:
+  - Software Engineering Internships
+  - Full-Stack Opportunities
+  - AI Engineering
+  - Research Collaboration
+  - Open Source
+</pre>
+
+</td>
+
+<td width="42%" valign="top">
+
+<pre>
+┌──────────────────────────────┐
+│ ● ● ●                        │
+│                              │
+│ $ whoami                     │
+│ > Hitesh Verma               │
+│                              │
+│ $ stack                      │
+│ > React                      │
+│ > Node.js                    │
+│ > MongoDB                    │
+│ > C++ / DSA                  │
+│ > Python / AI                │
+│                              │
+│ $ status                     │
+│ > BUILDING...                │
+│                              │
+│ $ mindset                    │
+│ > Learn → Build → Ship       │
+│                              │
+└──────────────────────────────┘
+</pre>
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
 
-`FULL-STACK DEVELOPMENT` &nbsp; • &nbsp;
-`C++ / DSA` &nbsp; • &nbsp;
-`AI / ML` &nbsp; • &nbsp;
-`SYSTEMS`
-
-<br><br>
-
-**Open to:** Software Engineering Internships · Full-Stack Roles · AI Engineering · Research · Open Source
+`Problem` → `Architecture` → `Code` → `Test` → `Deploy` → `Iterate`
 
 </div>
 
 ---
 
-<h2 align="center">⚡ WHAT I WORK WITH</h2>
-
 <div align="center">
+
+## ⚡ THE STACK
+
+<br>
 
 ### Languages
 
@@ -84,7 +136,7 @@ Currently, I'm strengthening my foundations in **C++, DSA, backend engineering a
 
 <br><br>
 
-### Backend & Data
+### Backend · Databases · Cloud
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postgres&theme=dark" alt="Backend Technologies"/>
 
@@ -98,89 +150,162 @@ Currently, I'm strengthening my foundations in **C++, DSA, backend engineering a
 
 ---
 
-<h2 align="center">🧠 ENGINEERING INTERESTS</h2>
-
 <div align="center">
 
-| Focus | What I'm Building Toward |
-|:---:|:---|
-| **Full Stack** | React applications, REST APIs, authentication, databases and production-ready web systems |
-| **DSA** | C++, algorithms, complexity analysis and interview-level problem solving |
-| **Backend** | Node.js, Express, APIs, databases and scalable application architecture |
-| **AI / ML** | Applied machine learning, computer vision and intelligent applications |
-| **Systems** | Computer networks, NS-3 experimentation and intelligent routing |
-| **Research** | Optimization, computational intelligence and experimental ML |
+## 🧠 ENGINEERING FOCUS
 
 </div>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Full-Stack
+
+Building modern web applications with:
+
+- React
+- JavaScript / TypeScript
+- Node.js
+- Express
+- MongoDB
+- REST APIs
+- Authentication
+- Deployment
+
+</td>
+
+<td width="50%" valign="top">
+
+### DSA & Problem Solving
+
+Strengthening:
+
+- C++
+- Data Structures
+- Algorithms
+- Complexity Analysis
+- Competitive Problem Solving
+- Interview Preparation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### AI / ML
+
+Exploring:
+
+- Python
+- Machine Learning
+- Computer Vision
+- Deep Learning
+- Intelligent Applications
+- Applied AI
+
+</td>
+
+<td width="50%" valign="top">
+
+### Systems
+
+Working with:
+
+- Computer Networks
+- NS-3
+- MANETs
+- Intelligent Routing
+- Optimization
+- Research Experiments
+
+</td>
+</tr>
+</table>
+
 ---
 
-<h2 align="center">🚀 SELECTED WORK</h2>
+<div align="center">
+
+## 🚀 SELECTED BUILDS
+
+</div>
 
 <details>
-<summary><b>PHOENIX — Intelligent MANET Routing</b></summary>
+<summary><b>🔥 PHOENIX — Intelligent MANET Routing</b></summary>
 
 <br>
 
-A research-oriented **NS-3 framework for intelligent routing in Mobile Ad Hoc Networks**, focused on adaptive routing, network intelligence and optimization.
+A research-oriented networking system exploring **intelligent and adaptive routing in Mobile Ad Hoc Networks** using NS-3.
 
-| | |
-|---|---|
-| **Stack** | C++, NS-3, Python, Reinforcement Learning, ACO |
-| **Domain** | Computer Networks / Intelligent Routing |
-| **Evaluation** | PDR, throughput, delay, routing overhead |
-| **Engineering** | Modular simulation architecture + reproducible experiments |
+| Dimension | Details |
+|:---|:---|
+| **Domain** | Computer Networks · Intelligent Routing |
+| **Core** | C++ · NS-3 · Python |
+| **Research** | Adaptive routing · mobility · optimization |
+| **Evaluation** | PDR · throughput · delay · routing overhead |
+| **Architecture** | Modular simulation framework |
 | **Repository** | [PHOENIX-MANET](https://github.com/HITESHVERMA01/PHOENIX-MANET) |
 
-**Key work:** baseline routing, network-health analysis, mobility prediction, adaptive optimization, congestion-aware routing and multi-seed experimentation.
+### Engineering Work
 
-<br>
+- Baseline routing experimentation
+- Network-health analysis
+- Mobility-aware routing concepts
+- Adaptive optimization
+- Congestion-aware routing
+- Multi-seed experiments
+- Reproducible simulation workflow
+- Publication-oriented evaluation
 
-`C++` `NS-3` `Python` `Networking` `Reinforcement Learning`
+`C++` `NS-3` `Python` `Networking` `Optimization` `Research`
 
 </details>
 
 <br>
 
 <details>
-<summary><b>IR2RGB — Satellite Image Enhancement</b></summary>
+<summary><b>🛰️ IR2RGB — Satellite Image Enhancement</b></summary>
 
 <br>
 
-An AI/computer-vision project for satellite image reconstruction and enhancement using super-resolution and image-processing techniques.
+An AI/computer-vision project for satellite image reconstruction and enhancement.
 
-| | |
-|---|---|
-| **Stack** | Python, EDSR, OpenCV |
+| Dimension | Details |
+|:---|:---|
 | **Domain** | Satellite Remote Sensing |
-| **Techniques** | ×2 Super Resolution, CLAHE, Adaptive Sharpening |
-| **Evaluation** | PSNR, SSIM, MAE |
+| **Core** | Python · EDSR · OpenCV |
+| **Super Resolution** | EDSR ×2 |
+| **Enhancement** | CLAHE · Adaptive Sharpening |
+| **Evaluation** | PSNR · SSIM · MAE |
 | **Repository** | [IR2RGB](https://github.com/CodeXEaters/IR2RGB) |
 
-<br>
+The system combines deep-learning-based super resolution with classical image-enhancement techniques.
 
-`Python` `Computer Vision` `EDSR` `OpenCV` `Satellite AI`
+`Python` `Computer Vision` `EDSR` `OpenCV` `Remote Sensing`
 
 </details>
 
 <br>
 
 <details>
-<summary><b>UPI Fraud Detection</b></summary>
+<summary><b>🛡️ UPI Fraud Detection</b></summary>
 
 <br>
 
-An applied machine-learning project focused on detecting potentially fraudulent UPI transactions through a prediction-oriented workflow and web interface.
+An applied machine-learning project focused on identifying potentially fraudulent UPI transactions.
 
-| | |
-|---|---|
-| **Stack** | Python, Machine Learning, React, JavaScript |
-| **Domain** | AI / FinTech |
-| **Focus** | Fraud classification and prediction |
-| **Engineering** | ML workflow + frontend integration |
+| Dimension | Details |
+|:---|:---|
+| **Domain** | AI · FinTech |
+| **Core** | Python · Machine Learning |
+| **Interface** | React · JavaScript |
+| **Focus** | Fraud classification · prediction |
+| **Engineering** | ML workflow + web interface |
 | **Repository** | [GitHub](https://github.com/HITESHVERMA01) |
 
-<br>
+The project focuses on connecting a machine-learning workflow with a usable frontend experience.
 
 `Python` `Machine Learning` `React` `FinTech`
 
@@ -189,21 +314,19 @@ An applied machine-learning project focused on detecting potentially fraudulent 
 <br>
 
 <details>
-<summary><b>AI Surveillance System</b></summary>
+<summary><b>👁️ AI Surveillance System</b></summary>
 
 <br>
 
 A computer-vision prototype using YOLO-based object detection for intelligent visual monitoring.
 
-| | |
-|---|---|
-| **Stack** | Python, YOLO, Computer Vision |
-| **Domain** | Applied AI |
-| **Focus** | Object detection and visual monitoring |
-| **Engineering** | Detection pipeline and real-time vision concepts |
+| Dimension | Details |
+|:---|:---|
+| **Domain** | Computer Vision |
+| **Core** | Python · YOLO |
+| **Focus** | Object detection · visual monitoring |
+| **Engineering** | Detection pipeline · vision workflow |
 | **Repository** | [GitHub](https://github.com/HITESHVERMA01) |
-
-<br>
 
 `Python` `YOLO` `Computer Vision` `AI`
 
@@ -212,21 +335,21 @@ A computer-vision prototype using YOLO-based object detection for intelligent vi
 <br>
 
 <details>
-<summary><b>CVNN-Based Vermicomposting Research</b></summary>
+<summary><b>♻️ CVNN-Based Vermicomposting Research</b></summary>
 
 <br>
 
-Research-oriented experimentation applying computational intelligence to flower-waste vermicomposting.
+Research-oriented work applying computational intelligence to flower-waste vermicomposting.
 
-| | |
-|---|---|
-| **Stack** | Python, RVNN, CVNN, QVNN |
-| **Techniques** | FFT, Hilbert Transform, Wavelet Transform |
+| Dimension | Details |
+|:---|:---|
+| **Domain** | Computational Intelligence · Sustainable Computing |
+| **Models** | RVNN · CVNN · QVNN |
+| **Signal Processing** | FFT · Hilbert · Wavelet |
 | **Evaluation** | MAE-based model comparison |
-| **Domain** | AI + Sustainable Computing |
-| **Repository** | [GitHub](https://github.com/HITESHVERMA01) |
+| **Focus** | Optimization of vermicomposting prediction |
 
-<br>
+The work explores multiple computational-intelligence approaches and compares their predictive performance.
 
 `Python` `CVNN` `QVNN` `Machine Learning` `Research`
 
@@ -234,106 +357,119 @@ Research-oriented experimentation applying computational intelligence to flower-
 
 ---
 
-<h2 align="center">💼 EXPERIENCE</h2>
-
 <div align="center">
+
+## 💼 EXPERIENCE
+
+</div>
 
 ### Frontend AI Engineering Intern · Flyrank AI
 
 `2026 — Present`
 
-</div>
+Working in an early-stage startup environment at the intersection of **frontend engineering and AI-assisted product development**.
 
-Working in a startup environment combining **frontend engineering, AI-assisted development and product execution**.
-
-- Building and iterating modern frontend interfaces.
-- Working with React and JavaScript development workflows.
-- Integrating AI capabilities into practical product experiences.
-- Translating product requirements into working interfaces.
-- Using AI-assisted engineering workflows to accelerate development.
+- Building and iterating frontend interfaces
+- Working with modern React / JavaScript workflows
+- Translating product requirements into working interfaces
+- Exploring AI-assisted development workflows
+- Contributing within a fast-moving startup environment
 
 `React` `JavaScript` `Frontend` `AI Engineering` `Git` `GitHub`
 
 <br>
 
-<div align="center">
-
 ### Growth Intern · Kupid Dating
 
 `Startup Experience`
 
-</div>
+Worked in an early-stage startup environment focused on **growth, experimentation and product execution**.
 
-Worked in an early-stage startup environment focused on **growth, experimentation, user acquisition and product execution**.
-
-- Supported growth initiatives.
-- Worked around acquisition and engagement.
-- Contributed to experimentation and product activities.
-- Developed practical exposure to startup metrics and execution.
+- Supported growth initiatives
+- Worked around acquisition and engagement
+- Contributed to experimentation
+- Developed practical exposure to startup execution and product thinking
 
 `Growth` `Product` `Analytics` `Experimentation`
 
 ---
 
-<h2 align="center">⌁ PROBLEM SOLVING</h2>
-
 <div align="center">
 
+## 🧩 PROBLEM SOLVING
+
+<br>
+
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LEETCODE-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GEEKSFORGEEKS-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
+<img src="https://img.shields.io/badge/GEEKSFORGEEKS-0D1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HACKERRANK-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
+<img src="https://img.shields.io/badge/HACKERRANK-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CODECHEF-111827?style=for-the-badge&logo=codechef&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/CODECHEF-0D1117?style=for-the-badge&logo=codechef&logoColor=8B5CF6"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/C%2B%2B-PROBLEM%20SOLVING-312E81?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-CORE-312E81?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/DATA%20STRUCTURES-4338CA?style=flat-square"/>
 <img src="https://img.shields.io/badge/ALGORITHMS-4C1D95?style=flat-square"/>
-<img src="https://img.shields.io/badge/COMPLEXITY%20ANALYSIS-5B21B6?style=flat-square"/>
+<img src="https://img.shields.io/badge/PROBLEM%20SOLVING-5B21B6?style=flat-square"/>
 
 </div>
 
 ---
 
-<h2 align="center">📊 GITHUB PULSE</h2>
-
 <div align="center">
 
-<img src="./profile/stats.svg" alt="GitHub Statistics" width="48%"/>
-<img src="./profile/streak.svg" alt="GitHub Streak" width="48%"/>
+## 📊 GITHUB SIGNAL
+
+<br>
+
+<a href="https://github.com/HITESHVERMA01">
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=HITESHVERMA01&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB&icon_color=A78BFA&ring_color=7C3AED&custom_title=GitHub%20Statistics" alt="GitHub Statistics"/>
+</a>
+
+<a href="https://github.com/HITESHVERMA01">
+<img height="190" src="https://streak-stats.demolab.com?user=HITESHVERMA01&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+</a>
 
 <br><br>
 
-<img src="./profile/top-langs.svg" alt="Most Used Languages" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITESHVERMA01&layout=donut&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB&icon_color=A78BFA&custom_title=Languages%20I%20Use" width="48%" alt="Top Languages"/>
 
 </div>
 
 ---
 
-<h2 align="center">🌈 CONTRIBUTION MATRIX</h2>
-
 <div align="center">
+
+## 🌈 3D CONTRIBUTION MATRIX
+
+<br>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Contribution Matrix" width="100%"/>
 
+<br>
+
+<sub>Real GitHub activity rendered as an RGB 3D contribution landscape.</sub>
+
 </div>
 
 ---
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
-
 <div align="center">
+
+## 🐍 CONTRIBUTION SNAKE
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HITESHVERMA01/HITESHVERMA01/output/github-contribution-grid-snake-dark.svg">
@@ -345,9 +481,11 @@ Worked in an early-stage startup environment focused on **growth, experimentatio
 
 ---
 
-<h2 align="center">📈 ACTIVITY</h2>
-
 <div align="center">
+
+## 📈 ACTIVITY
+
+<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HITESHVERMA01&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&radius=8&custom_title=Contribution%20Activity" alt="GitHub Contribution Activity Graph" width="100%"/>
 
@@ -355,39 +493,82 @@ Worked in an early-stage startup environment focused on **growth, experimentatio
 
 ---
 
-<h2 align="center">🔭 CURRENTLY</h2>
+<div align="center">
+
+## 🏆 GITHUB TROPHIES
+
+<br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HITESHVERMA01&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" width="100%"/>
+
+</div>
+
+---
 
 <div align="center">
 
+## 🔭 CURRENTLY
+
+</div>
+
 ```yaml
-year: 3rd Year
-degree: B.Tech Information Technology
+profile:
+  year: "3rd Year"
+  degree: "B.Tech Information Technology"
 
 building:
-  - Full-Stack Web Applications
-  - AI-powered Products
-  - Networking Research Systems
+  - "Full-Stack Web Applications"
+  - "AI-powered Products"
+  - "Networking Research Systems"
 
 learning:
-  - Advanced Data Structures & Algorithms
-  - C++
-  - Backend Architecture
-  - System Design
+  - "Advanced Data Structures & Algorithms"
+  - "C++"
+  - "Backend Engineering"
+  - "System Design"
 
 exploring:
-  - AI / ML
-  - Computer Vision
-  - Reinforcement Learning
-  - Intelligent Systems
+  - "AI / ML"
+  - "Computer Vision"
+  - "Intelligent Systems"
+  - "Reinforcement Learning"
 
 strengthening:
-  - Software Engineering Fundamentals
-  - Problem Solving
-  - Production Development
+  - "Software Engineering Fundamentals"
+  - "Problem Solving"
+  - "Production Development"
+  - "Git / GitHub Workflows"
 
 open_to:
-  - Software Engineering Internships
-  - Full-Stack Opportunities
-  - AI Engineering
-  - Research Collaboration
-  - Open Source
+  - "Software Engineering Internships"
+  - "Full-Stack Opportunities"
+  - "AI Engineering"
+  - "Research Collaboration"
+  - "Open Source"
+<div align="center">
+✦ LET'S BUILD SOMETHING
+<br>
+
+Always down to collaborate on full-stack builds, DSA challenges, AI/ML experiments,
+hackathons, research ideas, or interesting engineering problems.
+
+<br><br>
+
+<a href="https://github.com/HITESHVERMA01"> <img src="https://img.shields.io/badge/CONNECT%20ON%20GITHUB-16002B?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a> <a href="https://github.com/HITESHVERMA01?tab=repositories"> <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-24103F?style=for-the-badge&logo=github&logoColor=FFFFFF"/> </a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=130&color=0:07000F,30:130B2B,55:31206B,80:5B21B6,100:07000F" width="100%" alt="Footer"/> <br> <sub>
+
+⚡ <a href="https://github.com/HITESHVERMA01">HITESHVERMA01</a>
+— connection established.
+
+</sub>
+
+<br><br>
+
+<sub>
+
+<b>Build things worth showing. Learn things worth knowing.</b>
+
+</sub> </div> 
