@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:090014,45:24104F,75:4C1D95,100:090014&text=HITESH%20VERMA&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPment%20%7C%20DSA%20%7C%20AI%20ENGINEERING&descAlignY=63&descSize=16&animation=twinkling" width="100%" alt="Hitesh Verma"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:090014,45:24104F,75:4C1D95,100:090014&text=HITESH%20VERMA&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPMENT%20%7C%20DSA%20%7C%20AI%20ENGINEERING&descAlignY=63&descSize=16&animation=twinkling" width="100%" alt="Hitesh Verma"/>
 
 <br>
 
@@ -355,39 +355,60 @@ Worked in an early-stage startup environment focused on **growth, experimentatio
 
 ---
 
-<h2 align="center">🔭 CURRENTLY</h2>
-
 <div align="center">
 
-```yaml
-year: 3rd Year
-degree: B.Tech Information Technology
+## ✦ What I'm Working On
 
-building:
-  - Full-Stack Web Applications
-  - AI-powered Products
-  - Networking Research Systems
+<table>
+<tr>
+<td width="25%" align="center">
 
-learning:
-  - Advanced Data Structures & Algorithms
-  - C++
-  - Backend Architecture
-  - System Design
+### ⚡ BUILDING
 
-exploring:
-  - AI / ML
-  - Computer Vision
-  - Reinforcement Learning
-  - Intelligent Systems
+Full-stack web applications
 
-strengthening:
-  - Software Engineering Fundamentals
-  - Problem Solving
-  - Production Development
+React • Node.js • Express  
+REST APIs • MongoDB
 
-open_to:
-  - Software Engineering Internships
-  - Full-Stack Opportunities
-  - AI Engineering
-  - Research Collaboration
-  - Open Source
+</td>
+
+<td width="25%" align="center">
+
+### 🧠 SOLVING
+
+Data Structures & Algorithms
+
+C++ • Problem Solving  
+Complexity • Competitive Programming
+
+</td>
+
+<td width="25%" align="center">
+
+### 🤖 EXPLORING
+
+AI / ML & Intelligent Systems
+
+Python • Computer Vision  
+Machine Learning • Research
+
+</td>
+
+<td width="25%" align="center">
+
+### 🚀 GROWING
+
+Software Engineering
+
+System Design • Git  
+Architecture • Open Source
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=750&lines=Learning+something+new+every+day.;Building+things+that+actually+work.;Turning+problems+into+engineering+solutions." alt="Current focus"/>
+
+</div>
