@@ -45,7 +45,11 @@
 </div>
 
 ---
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HITESHVERMA01&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=10" height="180"/>
+
+</div>
 ## About
 
 I am a **B.Tech Information Technology student and software engineering-focused developer** interested in building reliable, scalable, and intelligent software systems.
