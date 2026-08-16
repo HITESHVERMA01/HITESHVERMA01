@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:090014,45:24104F,75:4C1D95,100:090014&text=HITESH%20VERMA&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20DSA%20%7C%20AI%20ENGINEERING&descAlignY=63&descSize=16&animation=twinkling" width="100%" alt="Hitesh Verma"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:090014,45:24104F,75:4C1D95,100:090014&text=HITESH%20VERMA&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=FULL-STACK%20DEVELOPment%20%7C%20DSA%20%7C%20AI%20ENGINEERING&descAlignY=63&descSize=16&animation=twinkling" width="100%" alt="Hitesh Verma"/>
 
 <br>
 
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/GITHUB-HITESHVERMA01-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/hitesh-verma-ba4090324/">
 <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
