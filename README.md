@@ -412,3 +412,17 @@ Architecture • Open Source
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=750&lines=Learning+something+new+every+day.;Building+things+that+actually+work.;Turning+problems+into+engineering+solutions." alt="Current focus"/>
 
 </div>
+---
+
+## ✦ Open To
+
+<div align="center">
+
+`Software Engineering Internships` &nbsp;•&nbsp;
+`Full-Stack Development` &nbsp;•&nbsp;
+`AI Engineering` &nbsp;•&nbsp;
+`Research Collaboration` &nbsp;•&nbsp;
+`Hackathons` &nbsp;•&nbsp;
+`Open Source`
+
+</div>
