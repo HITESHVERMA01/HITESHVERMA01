@@ -436,7 +436,6 @@ Architecture • Open Source
 
 ### ✦ *“Stay curious. Build relentlessly.”*
 
-<sub>— Hitesh Verma</sub>
 
 <br/><br/>
 
